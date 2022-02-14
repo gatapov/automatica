@@ -1,0 +1,16 @@
+__pycache__
+runtime
+*.pyc
+.DS_Store
+__pycache__/
+
+/static
+/media
+/logs
+/.env
+
+/bin/
+/lib/
+/lib64
+/pyvenv.cfg
+/share/
